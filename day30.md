@@ -1,1 +1,0 @@
-* A Shark Tank parody that mocks the investors and takes ridiculous ideas to their hilarious logical conclusions. Investors ask questions that blatantly ignore the implausibility of ideas, asking to look explicitly at metrics and market potential. Legitimately good and original ideas are booed out of the room.
