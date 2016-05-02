@@ -1,1 +1,3 @@
 * A quadcopter drone with an umbrella that follows you around and protects you from the rain.
+
+* A hebbian neural network, with a neuron for every frequency. Neuron's cluster based on appearance of frequency. Clusters with high connected weights after a certain point form a rule. Rules change over time. A second neural network keeps track of every neuron's rate of change
